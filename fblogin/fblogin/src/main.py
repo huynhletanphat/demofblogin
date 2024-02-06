@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
 import pytz
 
-MAX_ACCOUNTS_PER_URL = 1 #Min
+MAX_ACCOUNTS_PER_URL = 10
 
 def load_users(users_file):
     with open(users_file, "r") as f:
