@@ -1,8 +1,10 @@
 # usage
 - first: `pip install`
-2 change the path of the `z:/code/...` properties to the `check.json` file and `users.json`
-3 enable professional mode of your personal page
-4 change `second_url` to your personal page url
+-2 change the path of the `z:/code/...` properties to the `check.json` file and `users.json`
+  
+-3enable professional mode of your personal page
+
+-4 change `second_url` to your personal page url
 
 # update
 
